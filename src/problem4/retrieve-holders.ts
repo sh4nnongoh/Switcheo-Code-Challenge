@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import erc20abi from "./ERC20.json";
+import bep20abi from "./BEP20.json";
 
 const providerAddr = "https://bsc-dataseed.binance.org/";
 const tokenContract = "0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c";
@@ -11,7 +11,7 @@ const addressList = [
 
 const provider = new ethers.providers.JsonRpcProvider(providerAddr);
 
-const SWTH = new ethers.Contract(tokenContract, erc20abi, provider);
+const SWTH = new ethers.Contract(tokenContract, bep20abi, provider);
 
 addressList.forEach(async (addr) => {
   const balance: ethers.BigNumber = await SWTH.balanceOf(addr)
