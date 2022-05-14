@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2076b9f6.css",
-    "main.js": "/static/js/main.39368b85.js",
-    "static/js/787.5ea957b3.chunk.js": "/static/js/787.5ea957b3.chunk.js",
-    "index.html": "/index.html",
-    "main.2076b9f6.css.map": "/static/css/main.2076b9f6.css.map",
-    "main.39368b85.js.map": "/static/js/main.39368b85.js.map",
-    "787.5ea957b3.chunk.js.map": "/static/js/787.5ea957b3.chunk.js.map"
+    "main.css": "https://sh4nnongoh.github.io/Switcheo-Code-Challenge/static/css/main.2076b9f6.css",
+    "main.js": "https://sh4nnongoh.github.io/Switcheo-Code-Challenge/static/js/main.2abaa7b2.js",
+    "static/js/787.5ea957b3.chunk.js": "https://sh4nnongoh.github.io/Switcheo-Code-Challenge/static/js/787.5ea957b3.chunk.js",
+    "index.html": "https://sh4nnongoh.github.io/Switcheo-Code-Challenge/index.html",
+    "main.2076b9f6.css.map": "https://sh4nnongoh.github.io/Switcheo-Code-Challenge/static/css/main.2076b9f6.css.map",
+    "main.2abaa7b2.js.map": "https://sh4nnongoh.github.io/Switcheo-Code-Challenge/static/js/main.2abaa7b2.js.map",
+    "787.5ea957b3.chunk.js.map": "https://sh4nnongoh.github.io/Switcheo-Code-Challenge/static/js/787.5ea957b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2076b9f6.css",
-    "static/js/main.39368b85.js"
+    "static/js/main.2abaa7b2.js"
   ]
 }
